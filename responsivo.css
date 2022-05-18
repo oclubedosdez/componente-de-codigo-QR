@@ -1,0 +1,12 @@
+@media(max-width: 1200px) {
+    .conteudos {
+        left: -34.6%;
+        height: 540px;
+    }
+    .attribution {
+        position: absolute;
+        top: 90%;
+        left: 1%;
+        width: 400px;
+    }
+}
